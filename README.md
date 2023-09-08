@@ -6,7 +6,7 @@ An automated bitcoin wallet generator that brute forces random wallet addresses 
 
 [![](https://img.shields.io/github/stars/davidmgilbert/btc-hack-offline.svg)](https://github.com/davdmgilbert/btc-hack-offline)
 
-My Bitcoin Wallet Address: 1LKKJE62ygo2c9K2Xc8GxuGwpVDnvyRFRD
+My Bitcoin Wallet Address: 1GhuAzucr7D3H3HSqyCp9RRytQ8C3tFMX7
 
 # Dependencies
 
