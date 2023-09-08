@@ -22,7 +22,7 @@ sudo apt-get install libgmp3-dev
 # Installation
 
 ```
-git clone https://github.com/davdmgilbert/btc-hack-offline.git btc-hack-offline
+git clone https://github.com/h1opok/btc-hack-offline.git btc-hack-offline
 ```
 ```
 cd btc-hack-offline && pip3 install -r requirements.txt
